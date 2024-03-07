@@ -12,8 +12,8 @@ What I'm Working On
 <p>🛠️ Leveraging Docker and Kubernetes for containerization and orchestration of microservices</p>
 
 Let's Connect!
-📫 Feel free to reach out to me on LinkedIn
-🌐 Check out my portfolio website: fymasolution.com
+<p>📫 Feel free to reach out to me on LinkedIn</p>
+<p>🌐 Check out my portfolio website: fymasolution.com</p>
 
 Thanks for stopping by! 😊.
 
