@@ -7,9 +7,9 @@ Languages: HTML, CSS, JavaScript, PHP, React, Laravel, Django, Java, C, C++, Pyt
 Technologies: AWS, Kubernetes, Docker
 
 What I'm Working On
-🚀 Currently diving deep into React to build responsive and interactive web applications
-🔍 Exploring AWS services to enhance scalability and performance of cloud-based projects
-🛠️ Leveraging Docker and Kubernetes for containerization and orchestration of microservices
+<p>🚀 Currently diving deep into React to build responsive and interactive web applications</p>
+<p>🔍 Exploring AWS services to enhance scalability and performance of cloud-based projects</p>
+<p>🛠️ Leveraging Docker and Kubernetes for containerization and orchestration of microservices</p>
 
 Let's Connect!
 📫 Feel free to reach out to me on LinkedIn
