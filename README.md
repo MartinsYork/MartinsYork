@@ -4,7 +4,7 @@ I'm a passionate full stack developer with a diverse skill set and a love for bu
 
 Skills
 Languages: HTML, CSS, JavaScript, PHP, React, Laravel, Django, Java, C, C++, Python
-Technologies: AWS, Kubernetes, Docker
+<p>Technologies: AWS, Kubernetes, Docker</p>
 
 What I'm Working On
 <p>🚀 Currently diving deep into React to build responsive and interactive web applications</p>
