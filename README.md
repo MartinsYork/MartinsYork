@@ -1,5 +1,5 @@
-Hi there! 👋 I'm York
- I am more than just a dedicated full stack developer—I am someone who values a versatile skill set and harbors a deep passion for crafting groundbreaking solutions. Equipped with expertise across various technologies, I excel in tackling intricate challenges and driving meaningful outcomes through my work.
+Hi there! 👋 I'm York,
+  More than just a dedicated full stack developer, I am someone who values a versatile skill set and harbors a deep passion for crafting groundbreaking solutions. Equipped with expertise across various technologies, I excel in tackling intricate challenges and driving meaningful outcomes through my work.
 
 Skills
 Languages: HTML, CSS, JavaScript, PHP, React, Laravel, Django, Java, C, C++, Python
